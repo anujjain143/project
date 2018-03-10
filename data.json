@@ -1,0 +1,41 @@
+{
+  "basics":
+  {
+    "photo":"sachin.jpg",
+    "name":"Anujjain",
+    "phone":"8985677014",
+    "email":"143anujjain@gmail.com",
+    "address":"(s/o:vinesh,eluru,westgodavari:534001)"
+  },
+  "education":[
+   {
+     "course":"<h3>B.tech(cse)</h3>",
+     "institute":"sir crreddy college of engineering",
+     "data":["2015-2019","75%"]
+   },
+   {
+     "course":"<h3>Intermediate</h3>",
+     "institute":"sri chaitanya junior college",
+     "data":["2013-2015","85%"]
+   },
+   {
+     "course":"<h2>ssc</h2>",
+     "institute":"Dr.k.k.r's gowtham concept school",
+     "data":["2012-2013","82%"]
+   }
+ ],
+ "skills":[
+   {
+     "name":"languages",
+     "data":["c","java","php"]
+   },
+   {
+     "name":"web technologies",
+     "data":["html","css","php"]
+   },
+   {
+     "name":"os",
+     "data":["windows","unix","linux"]
+   }
+ ]
+}
